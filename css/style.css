@@ -12,3 +12,12 @@
 footer {
     background-color: #000;
 }
+
+@media only screen and (max-width: 992px) {
+
+    .display-none {
+        display: none;
+    }
+
+
+}
